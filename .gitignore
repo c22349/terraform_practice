@@ -1,0 +1,27 @@
+# .gitignore for Terraform projects
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform directory
+.terraform/
+
+# Crash log files
+crash.log
+
+# Sensitive variables files
+*.tfvars
+
+# Override files as they are usually used to override resources locally and don't need to be committed
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# Terraform file
+terraform
