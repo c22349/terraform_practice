@@ -6,8 +6,8 @@ This is a Terraform practice.
 
 ## terraform　Common commands
 ```
-  apply              Builds or changes infrastructure
-  init               Initialize a Terraform working directory
-  plan               Generate and show an execution plan
-  version            Prints the Terraform version
+apply              Builds or changes infrastructure
+init               Initialize a Terraform working directory
+plan               Generate and show an execution plan
+version            Prints the Terraform version
 ```
